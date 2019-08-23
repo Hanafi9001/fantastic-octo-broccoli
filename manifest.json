@@ -1,0 +1,38 @@
+{
+  "name": "Hotgame Magazine",
+  "short_name": "Hotgame Magz",
+  "start_url": "www.hotgamemagazine.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Hotgame Magazine Indonesia",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-0GujldPViH8/XV-ufU5Pi2I/AAAAAAAAaf4/TZBAHGcELCA4T3vMmK-i_EZATrD2RGYugCLcBGAs/s48/hgm%2Blogo%2Bicon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-0GujldPViH8/XV-ufU5Pi2I/AAAAAAAAaf4/TZBAHGcELCA4T3vMmK-i_EZATrD2RGYugCLcBGAs/s72/hgm%2Blogo%2Bicon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-0GujldPViH8/XV-ufU5Pi2I/AAAAAAAAaf4/TZBAHGcELCA4T3vMmK-i_EZATrD2RGYugCLcBGAs/s96/hgm%2Blogo%2Bicon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-0GujldPViH8/XV-ufU5Pi2I/AAAAAAAAaf4/TZBAHGcELCA4T3vMmK-i_EZATrD2RGYugCLcBGAs/s144/hgm%2Blogo%2Bicon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-0GujldPViH8/XV-ufU5Pi2I/AAAAAAAAaf4/TZBAHGcELCA4T3vMmK-i_EZATrD2RGYugCLcBGAs/s168/hgm%2Blogo%2Bicon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-0GujldPViH8/XV-ufU5Pi2I/AAAAAAAAaf4/TZBAHGcELCA4T3vMmK-i_EZATrD2RGYugCLcBGAs/s192/hgm%2Blogo%2Bicon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-0GujldPViH8/XV-ufU5Pi2I/AAAAAAAAaf4/TZBAHGcELCA4T3vMmK-i_EZATrD2RGYugCLcBGAs/s512/hgm%2Blogo%2Bicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
